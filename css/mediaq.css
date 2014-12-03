@@ -1,0 +1,91 @@
+@media only screen and (min-width:321px)
+{
+	#footer{
+	clear:both;
+	width: 90%;
+	height:45px;
+	display:block;
+	position:relative;
+	margin:0 auto;
+}
+
+#footerletters{
+	position:relative;
+	padding-top: 8px;
+	color:rgb(55,147,140);
+	float:left;
+}
+
+.footerimg{
+	position:relative;
+	float:right;
+	height:45px;
+}
+
+}
+
+@media only screen and (min-width:481px)
+{
+}
+@media only screen and (min-width:769px)
+{
+	
+	.nav a{
+	font-family:'PLAYSIR';
+	font-size: 12pt;
+    color:rgba(55,147,140,1.00);
+	text-decoration:none;
+	display:block;
+	padding-top:10px;
+	padding-bottom:10px;
+	}
+	
+	.nav a:hover {
+	color: #778899;
+	text-decoration: none;
+	}
+
+	.nav ul {
+     list-style: none;
+	 position: relative;
+	 margin: 0;
+	 padding: 0;
+	 overflow: hidden;
+	}
+    
+	.menu
+	{
+		position:relative;
+		background-color:rgba(214,255,254,1.00);
+		padding-left:5%;
+		padding-right:5%;
+		float:left;
+	}
+.menuclicked
+{
+		position:relative;
+		background-color:rgba(174,253,255,1.00);
+		padding-left:70px;
+		float:left;
+		font-weight:bold;
+		width:150px;
+		
+}
+	
+	
+.navfixed{
+	position:relative;
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+	
+}
+
+@media only screen and (min-width:1580px)
+{
+	
+	
+	
+}

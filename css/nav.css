@@ -1,0 +1,54 @@
+	.nav{
+	}
+	.nav a{
+	font-family:'PLAYSIR';
+	font-size: 12pt;
+    color:rgba(55,147,140,1.00);
+	text-decoration:none;
+	display:block;
+	padding-top:5px;
+	padding-bottom:5px;
+
+	}
+	
+	
+	.nav a:hover {
+	color: #778899;
+	text-decoration: none;
+	}
+
+	.nav ul {
+     list-style: none;
+	 position: relative;
+	 margin: 0;
+	 padding: 0;
+	 overflow: hidden;
+	}
+    
+	.menu
+	{
+		position:relative;
+		background-color:rgba(214,255,254,1.00);
+		padding-left:35%;
+		padding-right:0%;
+		float:left;
+	}
+.menuclicked
+{
+		position:relative;
+		background-color:rgba(174,253,255,1.00);
+		padding-left:35%;
+		padding-right:0%;
+		float:left;
+		font-weight:bold;
+		margin:0 auto;
+		width: 300px;
+}
+	
+	
+.navfixed{
+	position:relative;
+	width: 88%;
+	margin: 0 auto;
+}
+

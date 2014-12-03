@@ -1,0 +1,87 @@
+/**************Header Part***************/
+body{
+	margin: 0 0 0 0 ;
+	padding:0 0 0 0 ;
+	background-color:rgba(225,250,247,1.00);
+}
+
+#wrapper{
+	background-color:rgba(225,250,247,1.00);
+	width: 100%;
+	position: relative;
+	height: 100%;
+}
+#top{
+	width:100%;
+	position:relative;
+	background-image: -webkit-linear-gradient(270deg,rgba(21,184,244,1.00) 0%,rgba(87,235,247,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(21,184,244,1.00) 0%,rgba(87,235,247,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(21,184,244,1.00) 0%,rgba(87,235,247,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(21,184,244,1.00) 0%,rgba(87,235,247,1.00) 100%);
+	
+}
+#header{
+	width:80%;
+	margin: 0 auto;
+	position:relative;
+}
+
+#headerimg{
+	width:100%;
+	height: auto;
+	position:relative;
+}
+
+
+#content{
+	background-color:
+	rgba(174,253,255,1.00);
+	width:80%;
+	margin: 0 auto;
+	display:block;
+	position:relative;
+}
+
+#nav{
+	position: relative;
+	width: 80%;
+	margin: 0 auto;
+	background-color: rgba(214,255,254,1.00);
+}
+
+
+#bot{
+	clear:both;
+	width:100%;
+	position:relative;
+	text-align: center;
+	background-image: -webkit-linear-gradient(270deg,rgba(87,235,247,1.00) 0%,rgba(21,184,244,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(87,235,247,1.00) 0%,rgba(21,184,244,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(87,235,247,1.00) 0%,rgba(21,184,244,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(87,235,247,1.00) 0%,rgba(21,184,244,1.00) 100%);
+	height:45px;
+	display:block;
+}
+
+#footer{
+	clear:both;
+	width: 80%;
+	height:45px;
+	display:block;
+	position:relative;
+	margin:0 auto;
+}
+
+#footerletters{
+	position: relative;
+	padding-top: 0px;
+	color: rgb(55,147,140);
+	float: left;
+	width: 40%;
+}
+
+.footerimg{
+	position:relative;
+	float:right;
+	height:35px;
+}

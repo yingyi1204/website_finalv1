@@ -1,0 +1,57 @@
+
+
+.spaceadjust{
+	padding-top: 1%;
+	padding-bottom:1%;
+	padding-left:1%;
+}
+	
+.description{
+	width: 60%;
+	margin: 0 auto;
+	font-family:"PLAYSIR";
+	position:relative;
+
+}
+.heading{
+	position:relative;
+	font-size:2.5vw;
+	margin:0 auto;
+	line-height:100%;
+	padding:15% 20% 0% 25%;
+	color:rgba(55,147,140,1.00);
+
+}
+
+
+.homepagecontent{
+	position:relative;
+	font-size:1vw;
+	line-height:200%;
+	color:rgba(55,147,140,1.00);
+	padding: 5% 15% 3% 16%;
+
+}
+
+.boyicon{
+	position:relative;
+	float:left;	
+	padding: 4% 0 0 4%;
+	height: 20%;
+	width: 	20%;
+}
+
+.girlicon{
+	position:relative;
+	float:right;
+	padding: 4% 4% 0 0;
+	height: 20%;
+	width: 	20%;
+}
+
+.twitchtv{
+	position:relative;
+	height:350px;
+	width:49.3%;
+}
+
